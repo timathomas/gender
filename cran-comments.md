@@ -17,6 +17,7 @@ Ubuntu via GitHub Actions:
 
 There were no WARNINGS or ERRORS.
  
+ 
 There were two NOTES.
 
     * checking CRAN incoming feasibility ... NOTE
